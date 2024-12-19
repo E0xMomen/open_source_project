@@ -1,5 +1,0 @@
-Missing on switch 2:
-running configuration:
-   Lines :
-     item 
-     item
